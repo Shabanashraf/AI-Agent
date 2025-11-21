@@ -21,7 +21,7 @@ No OpenAI API or any other online LLM is used – everything runs locally with P
 From the project folder (`Ai agent`):
 
 ```powershell
-cd "C:\Users\ACER\Documents\6th sem\project\Ai agent"
+cd "path"
 python -m pip install -r requirements.txt
 ```
 
@@ -150,3 +150,4 @@ The script prints a final RUN REPORT (also captured in `offline_output.txt`), in
 - For Task 4: each rule, status, confidence, and which rules had low confidence
 
 This README now reflects the **current, fully offline implementation** – no API keys, no OpenAI packages, and no internet access are required to run the project.
+
