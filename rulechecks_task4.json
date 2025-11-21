@@ -1,0 +1,38 @@
+[
+  {
+    "rule": "Act must define key terms",
+    "status": "pass",
+    "evidence": "x year is \nhigher than it was for the September before that (or 0% if it is not higher)\n\na tax year means the standard allowance \napplicable for any assessment period commencing on or after the first ...",
+    "confidence": 50
+  },
+  {
+    "rule": "Act must specify eligibility criteria",
+    "status": "pass",
+    "evidence": "at time.\n\nentitled to an award of universal credit, no account is to be \ntaken of any period of non-entitlement— \n(a) that begins because the financial condition in section 5(1)(b) or \n(2)(b) of the A...",
+    "confidence": 50
+  },
+  {
+    "rule": "Act must specify responsibilities of the administering authority",
+    "status": "pass",
+    "evidence": "Secretary of State must exercise a relevant power in order to secure that \nthe amounts of the standard allowance for t",
+    "confidence": 84
+  },
+  {
+    "rule": "Act must include enforcement or penalties",
+    "status": "fail",
+    "evidence": "No explicit penalties or enforcement mechanisms found in the extracted text.",
+    "confidence": 30
+  },
+  {
+    "rule": "Act must include payment/entitlement structure",
+    "status": "pass",
+    "evidence": "element of universal credit and the rates of \nincome-related employment and support allowance.\n\namount \nof the standard allowance.\n\namount of the standard allowance for that tax year.\n\namount of the \n...",
+    "confidence": 95
+  },
+  {
+    "rule": "Act must include record-keeping or reporting requirements",
+    "status": "fail",
+    "evidence": "No explicit record-keeping requirements found in the extracted text.",
+    "confidence": 30
+  }
+]
